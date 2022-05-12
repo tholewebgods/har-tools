@@ -1,0 +1,8 @@
+{
+  "name": "har-tools",
+  "version": "1.0.0",
+  "description": "Inspect .har files",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
