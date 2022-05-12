@@ -4,5 +4,11 @@
   "description": "Inspect .har files",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint --ext mjs src/"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
 }
